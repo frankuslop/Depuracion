@@ -2,6 +2,13 @@ package com.ccs.entornos.depuracion;
 
 import java.util.Random;
 
+/*
+ * 	codigo de ejemplo de generacion de una secuencia grande de
+ * 	numeros aleatorios
+ * 
+ * 
+ * */
+
 public class GeneradorBucles {
 	private int x;
 	private int y;
